@@ -39,3 +39,12 @@ input {
 .addOption {
   margin-top: 10px;
 }
+
+.resultSection {
+  height: 300px;
+  disply: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+
+}
